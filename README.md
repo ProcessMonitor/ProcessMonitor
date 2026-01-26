@@ -94,11 +94,9 @@
 
 ---
 
-## 📈 Profile Views
+## 📈 Stats
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ProcessMonitor/count.svg" alt="Profile Views"/>
-</div>
+![](https://visitor-badge.laobi.icu/badge?page_id=ProcessMonitor.ProcessMonitor)
 
 ---
 
