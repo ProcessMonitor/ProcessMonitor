@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=A31F34&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+%26+Open+Source+Enthusiast;Love+coding+with+%E2%9D%A4%EF%B8%8F;Exploring+the+world+of+tech+%F0%9F%9A%80;Welcome+to+my+GitHub+profile!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=FF0000&color=FF7F00&color=FFFF00&color=00FF00&color=0000FF&color=4B0082&color=9400D3&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+%26+Open+Source+Enthusiast;Love+coding+with+%E2%9D%A4%EF%B8%8F;Exploring+the+world+of+tech+%F0%9F%9A%80;Welcome+to+my+GitHub+profile!" alt="Typing SVG"/>
 </div>
 
 ---
@@ -26,18 +26,21 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🎨 Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🔧 Backend & Tools
+
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -45,6 +48,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🗄️ Databases
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -55,16 +59,17 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProcessMonitor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&icon_color=A31F34&title_color=A31F34&text_color=ffffff" alt="GitHub Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProcessMonitor&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=A31F34&text_color=ffffff" alt="Top Languages"/>
+  <a href="https://github.com/ProcessMonitor">
+    <img src="https://github-readme-stats.vercel.app/api?username=ProcessMonitor&show_icons=true&theme=radical&hide_border=true&bg_color=000000&icon_color=FF0000&title_color=FF7F00&text_color=FFFF00" alt="GitHub Stats" width="48%"/>
+  </a>
+  <a href="https://github.com/ProcessMonitor">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProcessMonitor&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00FF00&text_color=FFFF00" alt="Top Languages" width="48%"/>
+  </a>
 </div>
 
 ---
 
-## 🐍 Snake Animation
+## 🐍 My Contribution
 
 <div align="center">
   <picture>
@@ -81,14 +86,18 @@
 <div align="center">
 
 ### 📚 My Blog
+
 🌐 **[C0de Print](https://processmonitor.github.io/)** - 我的技术博客，记录学习心得和踩坑经验
 
 ### 🌟 Featured Projects
 
-| Project | Description | Stars | Language |
-|---------|-------------|-------|----------|
-| [Hexo Blog](https://github.com/ProcessMonitor/ProcessMonitor.github.io) | My personal blog built with Hexo | ⭐ | HTML/CSS/JS |
-| [Blog Comment](https://github.com/ProcessMonitor/BlogComment) | Gitalk comment storage | 💬 | - |
+<a href="https://github.com/ProcessMonitor/ProcessMonitor.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProcessMonitor&repo=ProcessMonitor.github.io&theme=tokyonight&hide_border=true&bg_color=000000&title_color=A31F34&text_color=ffffff" alt="Hexo Blog" width="48%"/>
+</a>
+
+<a href="https://github.com/ProcessMonitor/BlogComment">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProcessMonitor&repo=BlogComment&theme=tokyonight&hide_border=true&bg_color=000000&title_color=A31F34&text_color=ffffff" alt="Blog Comment" width="48%"/>
+</a>
 
 </div>
 
@@ -96,11 +105,15 @@
 
 ## 📈 Stats
 
-![](https://visitor-badge.laobi.icu/badge?page_id=ProcessMonitor.ProcessMonitor)
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/ProcessMonitor/count.svg)
+
+</div>
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -112,14 +125,4 @@
   <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
 </a>
 
-</div>
-
----
-
-<div align="center">
-  <i>Thanks for visiting my profile! Have a nice day! 🌟</i>
-</div>
-
-<div align="center">
-  Made with ❤️ and ☕ by <b>ProcessMonitor</b>
 </div>
