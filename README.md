@@ -59,12 +59,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/ProcessMonitor">
-    <img src="https://github-readme-stats.vercel.app/api?username=ProcessMonitor&show_icons=true&theme=radical&hide_border=true&bg_color=000000&icon_color=FF0000&title_color=FF7F00&text_color=FFFF00" alt="GitHub Stats" width="48%"/>
-  </a>
-  <a href="https://github.com/ProcessMonitor">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProcessMonitor&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00FF00&text_color=FFFF00" alt="Top Languages" width="48%"/>
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ProcessMonitor&show_icons=true&theme=calm&hide_border=true" alt="GitHub Stats" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProcessMonitor&layout=compact&theme=calm&hide_border=true" alt="Top Languages" width="49%"/>
+
 </div>
 
 ---
@@ -91,13 +90,12 @@
 
 ### 🌟 Featured Projects
 
-<a href="https://github.com/ProcessMonitor/ProcessMonitor.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProcessMonitor&repo=ProcessMonitor.github.io&theme=tokyonight&hide_border=true&bg_color=000000&title_color=A31F34&text_color=ffffff" alt="Hexo Blog" width="48%"/>
-</a>
-
-<a href="https://github.com/ProcessMonitor/BlogComment">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProcessMonitor&repo=BlogComment&theme=tokyonight&hide_border=true&bg_color=000000&title_color=A31F34&text_color=ffffff" alt="Blog Comment" width="48%"/>
-</a>
+| Project | Description | Language | Link |
+|---------|-------------|----------|------|
+| [walinejs-blog-comment](https://github.com/ProcessMonitor/walinejs-blog-comment) | Waline 评论系统后端 | TypeScript | [🔗](https://github.com/ProcessMonitor/walinejs-blog-comment) |
+| [ProcessMonitor.github.io](https://github.com/ProcessMonitor/ProcessMonitor.github.io) | 我的个人博客，基于 Hexo 搭建 | HTML/CSS/JS | [🔗](https://github.com/ProcessMonitor/ProcessMonitor.github.io) |
+| [MIT6.824-2021](https://github.com/ProcessMonitor/MIT6.824-2021) | MIT 6.824 分布式系统课程实验 | Go | [🔗](https://github.com/ProcessMonitor/MIT6.824-2021) |
+| [Dummy-Robot](https://github.com/ProcessMonitor/Dummy-Robot) | 机器人相关项目 | Python | [🔗](https://github.com/ProcessMonitor/Dummy-Robot) |
 
 </div>
 
@@ -107,7 +105,7 @@
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/ProcessMonitor/count.svg)
+![Profile Views](https://count.getloli.com/get/@ProcessMonitor?theme=asoul)
 
 </div>
 
