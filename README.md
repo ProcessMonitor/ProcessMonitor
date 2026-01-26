@@ -60,9 +60,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ProcessMonitor&show_icons=true&theme=calm&hide_border=true" alt="GitHub Stats" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProcessMonitor&layout=compact&theme=calm&hide_border=true" alt="Top Languages" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ProcessMonitor&show_icons=true&count_private=true&hide_border=false&no-bg=true&theme=translucent" alt="GitHub Stats"/>
 
 </div>
 
