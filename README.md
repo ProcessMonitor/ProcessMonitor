@@ -60,7 +60,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ProcessMonitor&show_icons=true&count_private=true&hide_border=false&no-bg=true&theme=translucent" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ProcessMonitor&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=3B4252&icon_color=3B4252&text_color=3B4252" alt="GitHub Stats"/>
 
 </div>
 
@@ -93,7 +93,7 @@
 | [walinejs-blog-comment](https://github.com/ProcessMonitor/walinejs-blog-comment) | Waline 评论系统后端 | TypeScript | [🔗](https://github.com/ProcessMonitor/walinejs-blog-comment) |
 | [ProcessMonitor.github.io](https://github.com/ProcessMonitor/ProcessMonitor.github.io) | 我的个人博客，基于 Hexo 搭建 | HTML/CSS/JS | [🔗](https://github.com/ProcessMonitor/ProcessMonitor.github.io) |
 | [MIT6.824-2021](https://github.com/ProcessMonitor/MIT6.824-2021) | MIT 6.824 分布式系统课程实验 | Go | [🔗](https://github.com/ProcessMonitor/MIT6.824-2021) |
-| [Dummy-Robot](https://github.com/ProcessMonitor/Dummy-Robot) | 机器人相关项目 | Python | [🔗](https://github.com/ProcessMonitor/Dummy-Robot) |
+| [Dummy-Robot](https://github.com/ProcessMonitor/Dummy-Robot) | Ro3ot Demo | Python | [🔗](https://github.com/ProcessMonitor/Dummy-Robot) |
 
 </div>
 
