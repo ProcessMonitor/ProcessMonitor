@@ -1,7 +1,9 @@
 # Hi there! I'm ProcessMonitor 👋
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544_1544/Catppuccin-Mocha-Alt-Logo.png" width="300" alt="logo"/>
+  <a href="https://github.com/ProcessMonitor">
+    <img src="https://raw.githubusercontent.com/ProcessMonitor/ProcessMonitor/master/github-profile-readme-md-3.gif" width="300" alt="Welcome"/>
+  </a>
 </div>
 
 <div align="center">
@@ -12,22 +14,16 @@
 
 ## 🎯 About Me
 
-<div align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3AybnF4eHl4eHl4eHl4eHl4eHl4eHl4eHl4eHl4eHl4eHl4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMaoG4caLkLZu5Hq6Y/giphy.gif" width="50" align="right"/>
-</div>
-
 - 🔭 I'm currently working on **Backend Development** & **Distributed Systems**
 - 🌱 I'm currently learning **Go**, **ElasticSearch**, and **System Design**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Java, Spring Boot, Nginx, Redis**
 - ⚡ Fun fact: **I debug with coffee and memes** ☕
-- 📫 How to reach me: **Check out my links below!**
+- 📫 How to reach me: **Check out my blog below!**
 
 ---
 
 ## 🛠️ Tech Stack
-
-<div align="center">
 
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -54,28 +50,16 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-</div>
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProcessMonitor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=A31F34&title_color=A31F34&text_color=C9D1D9" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProcessMonitor&theme=tokyonight&hide_border=true&background=0D1117&stroke=A31F34&ring=A31F34&fire=A31F34" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ProcessMonitor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&icon_color=A31F34&title_color=A31F34&text_color=ffffff" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProcessMonitor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A31F34&text_color=C9D1D9" alt="Top Languages" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ProcessMonitor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A31F34&text_color=C9D1D9" alt="WakaTime" width="48%"/>
-</div>
-
----
-
-## 🔥 Contributions
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ProcessMonitor&theme=tokyo-night&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=A31F34&line=A31F34&point=FFFFFF" alt="Contribution Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProcessMonitor&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=A31F34&text_color=ffffff" alt="Top Languages"/>
 </div>
 
 ---
@@ -86,13 +70,13 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProcessMonitor/ProcessMonitor/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProcessMonitor/ProcessMonitor/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ProcessMonitor/ProcessMonitor/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ProcessMonitor/ProcessMonitor/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
 ---
 
-## 📝 Blog & Links
+## 📝 Blog & Featured Content
 
 <div align="center">
 
@@ -104,41 +88,7 @@
 | Project | Description | Stars | Language |
 |---------|-------------|-------|----------|
 | [Hexo Blog](https://github.com/ProcessMonitor/ProcessMonitor.github.io) | My personal blog built with Hexo | ⭐ | HTML/CSS/JS |
-| [Blog Comment System](https://github.com/ProcessMonitor/BlogComment) | Gitalk comment storage | 💬 | - |
-
-</div>
-
----
-
-## 🎮 Fun & Interesting Links
-
-<div align="center">
-
-### 🎨 Cool Stuff
-- 🎭 [Catppuccin Theme](https://catppuccin.com/) - Soothing pastel theme with dark mode
-- 🎨 [Shields.io](https://shields.io/) - Create beautiful badges
-- 📊 [Readme Typing SVG](https://git.io/typing-svg) - Add typing animation
-- 🐍 [Snake Animation](https://github.com/Platane/snk) - Snake contribution graph
-- 📈 [GitHub Stats](https://github.com/anuraghazra/github-readme-stats) - Generate stats cards
-- 🔥 [Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - Beautiful activity graph
-
-### 🎯 Learn & Practice
-- 💪 [LeetCode](https://leetcode.com/) - Practice coding
-- 📖 [FreeCodeCamp](https://www.freecodecamp.org/) - Learn to code
-- 🎓 [roadmap.sh](https://roadmap.sh/) - Developer roadmaps
-- 📚 [Dev.to](https://dev.to/) - Developer community
-
-### 🛠️ Useful Tools
-- 🎨 [Figma](https://www.figma.com/) - Design tool
-- 📝 [Notion](https://www.notion.so/) - Notes and docs
-- 🗂️ [Trello](https://trello.com/) - Project management
-- 💬 [Discord](https://discord.com/) - Community chat
-
-### 🎵 Just for Fun
-- 🎮 [Monkeytype](https://monkeytype.com/) - Typing test
-- 🎵 [Spotify](https://open.spotify.com/) - Music
-- 📺 [YouTube](https://www.youtube.com/) - Videos
-- 🤖 [ChatGPT](https://chat.openai.com/) - AI assistant
+| [Blog Comment](https://github.com/ProcessMonitor/BlogComment) | Gitalk comment storage | 💬 | - |
 
 </div>
 
@@ -159,17 +109,14 @@
 <a href="https://github.com/ProcessMonitor" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="mailto:your-email@example.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+
+<a href="https://processmonitor.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
 </a>
 
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3AybnF4eHl4eHl4eHl4eHl4eHl4eHl4eHl4eHl4eHl4eHl4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LmGkf58lv56yXhTNAh/giphy.gif" width="100"/>
-</div>
 
 <div align="center">
   <i>Thanks for visiting my profile! Have a nice day! 🌟</i>
