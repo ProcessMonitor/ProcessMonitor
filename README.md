@@ -14,8 +14,8 @@
 
 ## 🎯 About Me
 
-- 🔭 I'm currently working on **Backend Development** & **Distributed Systems**
-- 🌱 I'm currently learning **Go**, **ElasticSearch**, and **System Design**
+- 🔭 I'm currently working on **Backend Development** & **Vibe Coding**
+- 🌱 I'm currently learning **Go**, **ElasticSearch**, and **Vibe Coding**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Java, Spring Boot, Nginx, Redis**
 - ⚡ Fun fact: **I debug with coffee and memes** ☕
@@ -31,11 +31,11 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -84,16 +84,16 @@
 
 ### 📚 My Blog
 
-🌐 **[C0de Print](https://processmonitor.github.io/)** - 我的技术博客，记录学习心得和踩坑经验
+🌐 **[Wincy Blog](https://wincy-blog.vercel.app/)** - 纯净简单的技术博客，记录学习心得和踩坑经验
 
 ### 🌟 Featured Projects
 
 | Project | Description | Language | Link |
 |---------|-------------|----------|------|
-| [walinejs-blog-comment](https://github.com/ProcessMonitor/walinejs-blog-comment) | Waline 评论系统后端 | TypeScript | [🔗](https://github.com/ProcessMonitor/walinejs-blog-comment) |
-| [ProcessMonitor.github.io](https://github.com/ProcessMonitor/ProcessMonitor.github.io) | 我的个人博客，基于 Hexo 搭建 | HTML/CSS/JS | [🔗](https://github.com/ProcessMonitor/ProcessMonitor.github.io) |
+| [wincy-blog](https://github.com/ProcessMonitor/wincy-blog) | Astro + Vercel 纯净简洁博客 | Astro | [🔗](https://github.com/ProcessMonitor/wincy-blog) |
+| [Dummy-Robot](https://github.com/ProcessMonitor/Dummy-Robot) | 简单机器人项目 | Python | [🔗](https://github.com/ProcessMonitor/Dummy-Robot) |
 | [MIT6.824-2021](https://github.com/ProcessMonitor/MIT6.824-2021) | MIT 6.824 分布式系统课程实验 | Go | [🔗](https://github.com/ProcessMonitor/MIT6.824-2021) |
-| [Dummy-Robot](https://github.com/ProcessMonitor/Dummy-Robot) | Ro3ot Demo | Python | [🔗](https://github.com/ProcessMonitor/Dummy-Robot) |
+| [svgbob](https://github.com/ProcessMonitor/svgbob) | ASCII 图表转 SVG 工具 | Rust | [🔗](https://github.com/ProcessMonitor/svgbob) |
 
 </div>
 
@@ -117,7 +117,7 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://processmonitor.github.io/" target="_blank">
+<a href="https://wincy-blog.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
 </a>
 
