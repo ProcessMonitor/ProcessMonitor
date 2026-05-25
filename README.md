@@ -60,7 +60,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ProcessMonitor&show_icons=true&count_private=true&hide_border=false&no-bg=true&theme=transparent" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ProcessMonitor&show_icons=true&count_private=true&hide_border=true&hide_background=true&theme=transparent" alt="GitHub Stats"/>
 
 </div>
 
